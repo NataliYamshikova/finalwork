@@ -1,0 +1,15 @@
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\bin\Debug\net6.0\finalwork.exe
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\bin\Debug\net6.0\finalwork.deps.json
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\bin\Debug\net6.0\finalwork.runtimeconfig.json
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\bin\Debug\net6.0\finalwork.dll
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\bin\Debug\net6.0\finalwork.pdb
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.csproj.AssemblyReference.cache
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfoInputs.cache
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfo.cs
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.csproj.CoreCompileInputs.cache
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.dll
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\refint\finalwork.dll
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.pdb
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\finalwork.genruntimeconfig.cache
+D:\ГИГБРЕЙНС\Итоговая работа\finalwork\obj\Debug\net6.0\ref\finalwork.dll
